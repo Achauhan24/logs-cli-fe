@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
+
+  .page-title h6 {
+		float: left;
+		margin: 1px 5px 0 0;
+  }
+
+  .logs-styling{
+    margin-right: 5%;
+    margin-bottom: 2%;
+    border-style: hidden;
+    margin-top: 5%;
+    margin-left: 5%;
+    background-color: gainsboro
+  }
+
+  .header{
+    width: 100%;
+    background-color: #f3e9e3;
+    height: 50px;
+
+    .btn.btn-secondary{
+      margin-left: 1120px;
+      width: 100px!important;
+      height: 40px!important;
+      margin-top: 5px;
+    }
+  }
+
+  .login-form{
+    border: solid;
+    width: 50%;
+    margin-left: 25%;
+  }
+
+  .login-style{
+    .input{
+      padding-top: 50px;
+    }
+    .label{
+
+    }
+    
+  }
+
+  .input.form-control.login-style{
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-left: 15px;
+  }
+
+  .h2{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    .span{
+      color: #890d02;
+    }
+  }
+
+  .submit-btn.btn.btn-secondary{
+    width: 70px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .email-input.form-control{
+    margin-top: 7px;
+    margin-left: 15px;
+  }
+
+  .label-style{
+    margin-right: 20px;
+    font-family: serif;
+  }
+
+  .error-msg{
+    font-size: 12px;
+    color: #890d02;
+  }
+
+  
